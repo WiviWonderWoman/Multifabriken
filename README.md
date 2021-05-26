@@ -1,5 +1,5 @@
 # Inlämningsuppgift Multifabriken
-Objektorienterad programmering med C# - november 2020
+100/100 (VG)
 ##  Objektorienterad programmering med C# - november 2020
 ### Läranderesultat:
 * Du ska ha en grundläggande uppfattning om hur du kan använda dig a C# för att skriva program.
