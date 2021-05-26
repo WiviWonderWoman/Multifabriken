@@ -1,7 +1,16 @@
-# Multifabriken
+# Inlämningsuppgift Multifabriken
 Objektorienterad programmering med C# - november 2020
-## Inlämningsuppgift i Programmering med C# och objektorienterad design
-100/100 (VG)
+##  Objektorienterad programmering med C# - november 2020
+### Läranderesultat:
+* Du ska ha en grundläggande uppfattning om hur du kan använda dig a C# för att skriva program.
+* Du ska skapat en fungerande lokal miljö för att skriva, testa och köra C# kod på din dator.
+* Du förstår skillnaderna mellan Javascript och C#, vad är likadant och när måste du tänka annorlunda.
+* Du har skapat dig en förståelse för begreppet Typer, Klasser och Objekt, och vet hur dom används i C#.
+* Du har börjat fundera och förstå dom grundläggande principerna för objektorienterad programmering.
+### Färdigheter:
+* konstruera program som löser programmeringsuppgifter på ett objektorienterat sätt
+* strukturera kod för god läsbarhet och tydlighet samt analysera dess funktion vid grundläggande programutveckling
+_________________________________________________________________________________________________________________________________________________________________________________
 ### Scenario:
 Du ska utveckla en konsolapplikation för bolaget Multifabriken AB. De vill skapa en konsolapplikation för sina kunder där man kan välja att beställa nya produkter från deras fabrik. Fabriken kan producera bilar, godis, snören eller tofu. Via inmatning av beställning ska nya produkter skapas av den valda typen och samtliga produkter man beställt ska kunna listas av användaren.
 ### Kravlista
